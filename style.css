@@ -2,7 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    background-color: antiquewhite;
+    background-color: #95A5A6;
 }
 .clearfix:after{
     content: "";
